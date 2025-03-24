@@ -47,8 +47,3 @@
 
 ---
 
-## 📌 참고 링크
-
-- [GitHub Actions 공식 문서](https://docs.github.com/actions)
-- [Flutter CI/CD 가이드](https://docs.flutter.dev/testing/cd)
-
