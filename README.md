@@ -13,8 +13,6 @@
 | `flutter analyze` | 코드 정적 분석을 수행합니다. |
 | `flutter test` | 단위 테스트를 실행합니다. |
 | `flutter build apk` | Android용 APK를 빌드합니다. |
-| `actions/cache` | Flutter SDK 및 의존성 캐싱을 사용합니다. |
-| `actions/upload-artifact` | 빌드 결과물(APK)을 아티팩트로 업로드합니다. |
 
 ---
 
